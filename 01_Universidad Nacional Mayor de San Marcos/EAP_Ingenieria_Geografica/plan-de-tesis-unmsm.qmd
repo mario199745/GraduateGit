@@ -1,0 +1,102 @@
+---
+title: |
+  \textbf{\fontsize{19}{24.7}\selectfont{\textbf{Universidad Nacional Mayor de San Marcos}}} \
+  (Universidad del Perú, Decana de América)\
+  \vspace{0.5cm}
+  FACULTAD DE INGENIERÍA GEOLÓGICA, MINERA, METALÚRGICA Y GEOGRÁFICA\
+  \vspace{0.5cm}
+  Escuela Profesional de Ingeniería Geográfica
+author: \authorinfo
+titlepage: formal
+titlepage-logo: "resources/logo/unmsm.png"
+titlepage-theme:
+    elements: ["\\titleblock", "\\logoblock", "\\modelo", "\\titulo", "\\descrip", "\\grado", "\\presentado", "\\authorinfo", "\\asesor", "\\region", "\\anio", "\\footerblock"]
+    page-align: "center"
+    title-style: "plain"
+    title-fontstyle: ["normalsize"]
+    title-space-after: "1.0cm"
+    title-subtitle-space-between: "0.5cm"
+    author-style: "plain"
+    author-sep: "newline"
+    author-fontstyle: "textbf"
+    author-space-after: "2\\baselineskip"
+    affiliation-style: "numbered-list-with-correspondence"
+    affiliation-fontstyle: "large"
+    affiliation-space-after: "0pt"
+    footer-style: "plain"
+    footer-fontstyle: ["Large", "textsc"]
+    footer-space-after: "0pt"
+    logo-size: "0.35\\textwidth"
+    logo-space-after: "1cm"
+toc: true
+toc-title: "\\setmainfont{Times New Roman} Índice general"
+toc-depth: 3
+lang: es
+mainfont: "Times New Roman"
+sansfont: "Times New Roman"
+preamble: | 
+  \titleformat{\section}{\Large\bfseries\fontfamily{ptm}\selectfont}{\thesection}{1em}{}
+  \titleformat{\subsection}{\large\bfseries\fontfamily{ptm}\selectfont}{\thesubsection}{1em}{}
+  \newcommand{\modelo}{\vspace{0cm}\centering{\Large\textbf{\fontsize{14}{16}\selectfont{PLAN DE TESIS}}}\par\vspace{0cm}}
+  \newcommand{\titulo}{\vspace{0.5cm}\centering{\Large\textbf{\fontsize{16}{15}\selectfont{TITULO}}}\par\vspace{1.5cm}\vspace{1.8cm}}
+  \newcommand{\descrip}{\vspace{0.2cm}\centering{\Large\fontsize{14}{16}\selectfont{Tesis para optar el Título Profesional \\ de:}}\par\vspace{0.5cm}\vspace{0.8cm}}
+  \newcommand{\grado}{\vspace{0.2cm}\centering{\Large\textbf{\fontsize{14}{16}\selectfont{INGENIERO GEÓGRAFO}}}\par\vspace{0.5cm}\vspace{0.8cm}}
+  \newcommand{\presentado}{\vspace{0.5cm}\centering{\Large\fontsize{14}{16}\selectfont{Presentado por: }}\par\vspace{1.5cm}\vspace{1.8cm}}
+  \newcommand{\authorinfo}{\vspace{0.5cm}\centering{\Large\fontsize{16}{19.2}\selectfont{Bach. Antony Marcos Barja Ingaruca}}\par\vspace{0.5cm}}
+  \newcommand{\asesor}{\vspace{0.2cm}\centering{\Large\fontsize{14}{16}\selectfont{Asesor: Ing. Francisco Alejandro Alcantara Boza}}\par\vspace{0.5cm}\vspace{0.2cm}}
+  \newcommand{\region}{\vspace{0.2cm}\centering{\Large\fontsize{14}{16}\selectfont{Lima - Perú}}\par\vspace{0.5cm}\vspace{0.2cm}}
+  \newcommand{\anio}{\vspace{1.5cm}\centering{\Large\textbf{\fontsize{30}{24.7}\selectfont{2024}}}\par\vspace{1.5cm}\vspace{1.5cm}}
+
+format: 
+  titlepage-pdf:
+    coverpage: false
+    documentclass: scrbook
+    classoption: ["oneside", "open=any"]
+    number-sections: true
+    fontsize: 12pt
+    spacing: onehalf
+    geometry: 
+      - top=2.5cm
+      - bottom=2.5cm
+      - left=2.5cm
+      - right=2.5cm
+    extension-limit: 20
+    section-numbering: "chapter.section"
+---
+
+# CAPÍTULO I
+## INTRODUCCIÓN 
+### Introducción
+
+### Planteamiento del problema
+#### Descripción de la problemática
+#### Formulación del problema
+### Objetivos de la investigación
+### Importancia y alcance de la investigación
+
+# CAPÍTULO II
+## EL MARCO TEÓRICO
+### Antecedentes de la investigación
+### Bases teóricas
+### Definición de términos
+
+# CAPÍTULO III 
+## HIPÓTESIS Y VARIABLES
+### Las Hipótesis 
+### Las variables
+### Operacionalización de variables
+
+# CAPÍTULO VI
+## MATERIALES Y MÉTODOS 
+### Área de estudio 
+### Diseño de investigación
+### Población y muestra
+### Procedimientos, técnicas e intrumentos de recolección de información
+### Análisis estadístico
+
+# CAPÍTULO V 
+## PRESUPUESTO 
+## CRONOGRAMA DE ACTIVIDADES
+## REFERENCIAS 
+## ANEXOS
+
