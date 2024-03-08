@@ -41,8 +41,7 @@ Si tienes preguntas o comentarios sobre este repositorio, no dudes en [abrir un 
 
 ---
 
-## Citaciones
+## Referencias
 
-Si utilizas recursos de este repositorio en tu trabajo, por favor considera citarlo de la siguiente manera:
 
 Barja, A. M. (2024). Template Tesis UNMSM Geográfica. Universidad Nacional Mayor de San Marcos. Disponible en: https://github.com/ambarja/template-tesis-unmsm-geografica. Accedido el [fecha de acceso].
