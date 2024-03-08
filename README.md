@@ -38,11 +38,11 @@ El contenido de este repositorio está bajo una licencia XYZ. Por favor, revisa 
 
 Si tienes preguntas o comentarios sobre este repositorio, no dudes en [abrir un issue](link-a-la-sección-de-issues-del-repositorio) o contactar directamente al mantenedor a través de [correo electrónico](tu-correo@ejemplo.com).
 
-## Agradecimientos
-
-Un agradecimiento especial a los colaboradores y a las universidades que han proporcionado material y apoyo para este proyecto, incluyendo a [template-tesis-unmsm-geografica](https://github.com/ambarja/template-tesis-unmsm-geografica) por su plantilla específica para la Universidad Nacional Mayor de San Marcos.
 
 ---
 
-Estamos comprometidos a proporcionar recursos de alta calidad y actualizados para apoyarte en tu viaje académico. ¡Te deseamos éxito en la elaboración de tu tesis o plan de tesis!
+## Citaciones
 
+Si utilizas recursos de este repositorio en tu trabajo, por favor considera citarlo de la siguiente manera:
+
+Barja, A. M. (2024). Template Tesis UNMSM Geográfica. Universidad Nacional Mayor de San Marcos. Disponible en: https://github.com/ambarja/template-tesis-unmsm-geografica. Accedido el [fecha de acceso].
